@@ -54,4 +54,4 @@ gen-web-content
 *META-INF*
 *eclipse*
 
-/target/
+/target/*
